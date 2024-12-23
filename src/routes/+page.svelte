@@ -12,6 +12,7 @@
 	<li>Allow annotations on images</li>
 	<li>Optionally order images</li>
 	<li>Control with a YAML or similar file in each folder</li>
+	<li>Deploy with Github</li>
 </ul>
 
 <p>Useful tutorials...</p>
